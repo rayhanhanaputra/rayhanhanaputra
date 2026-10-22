@@ -23,6 +23,6 @@ pentesting/   secure_coding/   ctf/
 [2025]  2nd         [INTL]   ACS Hacking Contest
 [2024]  1st         [NAT]    Techcomfest CTF
 [2024]  3rd         [INTL]   Cyber SEA Game
-[2023]  1st         [NAT]    Healthkathon 2.0 CTF
+[2023]  1st         [NAT]    BPJS Healthkathon 2.0 CTF
 [2023]  1st         [NAT]    UConnect CTF
 ```
