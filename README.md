@@ -18,7 +18,7 @@ pentesting/   secure_coding/   ctf/
 
 ```text
 [2026]  Team Asia   [INTL]   International Cybersecurity Challenge (ICC)
-[2026]  1st         [NAT]    Cyber Jawara CSIRT 2025
+[2026]  1st         [NAT]    Cyber Jawara CSIRT 
 [2025]  1st         [INTL]   Cyber Battle CTF
 [2025]  2nd         [INTL]   ACS Hacking Contest
 [2024]  1st         [NAT]    Techcomfest CTF
